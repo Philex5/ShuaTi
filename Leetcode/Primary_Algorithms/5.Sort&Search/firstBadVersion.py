@@ -27,25 +27,67 @@ def isBadVersion(version):
 
 class Solution:
     # 确定中间的案例是否是错误案例，在确定是往前还是往后查找
+    # 时间超出限制
+    # def firstBadVersion(self, n):
+    #     if n == 1:
+    #         return 1
+    #     p = n // 2
+    #     if isBadVersion(p):
+    #         n = p
+    #         if n == 1:
+    #             if isBadVersion(n):
+    #                 return 1
+    #             else:
+    #                 return p
+    #         while isBadVersion(n):
+    #             n -= 1
+    #             if n == 1:
+    #                 print(n)
+    #                 if isBadVersion(n):
+    #                     return 1
+    #                 else:
+    #                     return p
+    #         return n
+    #     else:
+    #         n = p + 1
+    #         while not isBadVersion(n):
+    #             n += 1
+    #         return n
+    # beat 11.7%
+    # def firstBadVersion(self, n):
+    #     # 递归查找
+    #     if n == 1:
+    #         return 1
+    #     return self.findfirstBadVersion(1, n)
+    #
+    # def findfirstBadVersion(self, left, right):
+    #     if left == right:
+    #         return left
+    #     mid = (left + right) // 2
+    #     if isBadVersion(mid):
+    #         return self.findfirstBadVersion(left, mid)
+    #     else:
+    #         return self.findfirstBadVersion(mid+1, right)
+
+    # beat 99.65% 天，这样一改提升真么多，空间复杂度降低，递归用了栈，但是距离比我得分高的几个还有点远，阔怕
     def firstBadVersion(self, n):
+        # 递归改成迭代
         if n == 1:
             return 1
-        p = n // 2
-        if isBadVersion(p):
-            n = p
-            while isBadVersion(n):
-                if n == 1:
-                    if isBadVersion(n):
-                        return 1
-                    else:
-                        return p
-                n -= 1
-            return n
-        else:
-            n = p + 1
-            while not isBadVersion(n):
-                n += 1
-            return n
+        left = 1
+        right = n
+
+        while left != right:
+            mid = (left + right) // 2
+            if isBadVersion(mid):
+                right = mid
+            else:
+                left = mid + 1
+
+        return left
+
+
+
 
 so = Solution()
 print(so.firstBadVersion(4))
