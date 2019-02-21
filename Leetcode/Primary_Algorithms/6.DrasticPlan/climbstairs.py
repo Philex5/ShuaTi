@@ -39,10 +39,29 @@ class Solution:
     #         return 0
     #     return self.plan(m-step, 2) + self.plan(m-step, 1)
 
+    # 竟然就是斐波那契数列，d(n) = d(n-1) + d(n-2)
+    # beat 7.32
+    # def climbStairs(self, n: 'int') -> 'int':
+    #     if n == 1:
+    #         return 1
+    #     d = [0] * (n+1)
+    #     d[1] = 1
+    #     d[2] = 2
+    #     for i in range(3, n+1):
+    #         d[i] += d[i-1] + d[i-2]
+    #     return d[n]
+    #
+     # 优化方案?
     def climbStairs(self, n: 'int') -> 'int':
         if n == 1:
             return 1
-        count = 0
+        a = 1
+        b = 2
+        for i in range(n-2):
+            b += a
+            a = b - a
+        return b
+
 
 
 
