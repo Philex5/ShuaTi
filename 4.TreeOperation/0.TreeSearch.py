@@ -3,7 +3,7 @@ import collections
     The BreadthFirstSearch and DepthFirstSearch of Tree
 """
 
-# 广度优先搜索，使用先进先出的栈
+# BFS广度优先搜索，使用先进先出的栈
 # 不断弹出弹入树节点，不需要递归运算
 def BreadthFirstSearch(root):
     deque = collections.deque()
@@ -21,7 +21,7 @@ def BreadthFirstSearch(root):
     return values
 
 
-# 深度优先搜索, 需要使用栈，先出后进
+# DFS深度优先搜索, 需要使用栈，先出后进
 # 有右子节点先压入右子节点
 def DepthFirstSearch(root):
     stack = collections.deque()

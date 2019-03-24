@@ -44,8 +44,6 @@ class Solution:
         node.next = node.next.next
 
 
-
-
 so = Solution()
 so.deleteNode(5)
 

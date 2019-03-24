@@ -10,8 +10,6 @@ class Node:
 
 
 class TreeTraversal:
-
-
     # 前序遍历同深度遍历
     def PreOrderTraversal(self, root):
         if root is None:

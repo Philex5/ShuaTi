@@ -3,6 +3,60 @@
   <component name="ChangeListManager">
     <list default="true" id="c7dfdc0b-0908-4965-b8e4-66088ac3537d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/ByteDance/LinkList&amp;Trees/lowestCommonAncestor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/ByteDance/Strings/LengthOfLongestSubString.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/AddOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/AddOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/Intersection.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/Intersection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/IsDuplicated.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/IsDuplicated.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/MoveZero.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/MoveZero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/OnlyONe.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/OnlyONe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/RotateImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/RotateImg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/Rotate_Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/Rotate_Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/SameOfTwoArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/SameOfTwoArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/Sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/Sudoku.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/SumOfTwoNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/SumOfTwoNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/Utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/stock_price.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/stock_price.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/2.StringOperation/countAndSay.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/countAndSay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/2.StringOperation/firstUniqChar.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/firstUniqChar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/2.StringOperation/isAnagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/isAnagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/2.StringOperation/isPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/isPalindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/2.StringOperation/longestCommonPrefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/longestCommonPrefix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/2.StringOperation/myAtoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/myAtoi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/2.StringOperation/reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/2.StringOperation/reverseString.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/reverseString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/2.StringOperation/strStr.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/strStr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/3.LinkListOperation/deleteNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/deleteNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/3.LinkListOperation/hasCycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/hasCycle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/3.LinkListOperation/isPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/isPalindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/3.LinkListOperation/mergeTwoLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/mergeTwoLists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/3.LinkListOperation/removNthFromEnd.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/removNthFromEnd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/3.LinkListOperation/reverseList.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/reverseList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/4.TreeOperation/0.TreeSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/0.TreeSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/4.TreeOperation/1.TreeTraversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/1.TreeTraversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/4.TreeOperation/LevelOrderTraversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/LevelOrderTraversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/4.TreeOperation/MaxDepth.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/MaxDepth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/4.TreeOperation/isSymmetric.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/isSymmetric.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/4.TreeOperation/isValidBST.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/isValidBST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/4.TreeOperation/sortedArrayToBST.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/sortedArrayToBST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/5.Sort&amp;Search/firstBadVersion.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.Sort&amp;Search/firstBadVersion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/5.Sort&amp;Search/merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.Sort&amp;Search/merge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/6.DrasticPlan/climbstairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan/climbstairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/6.DrasticPlan/maxProfit.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan/maxProfit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/6.DrasticPlan/maxSubArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan/maxSubArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/6.DrasticPlan/rob.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan/rob.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/7.DesignProblem/ShuffleArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/7.DesignProblem/ShuffleArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/7.DesignProblem/ministStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/7.DesignProblem/ministStack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/8.MathProblem/countPrimes.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/countPrimes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/8.MathProblem/fizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/fizzBuzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/8.MathProblem/isPowerOfThree.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/isPowerOfThree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/8.MathProblem/romanToInt.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/romanToInt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/hammingWeight.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.others/hammingWeight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/hanmingDistance.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.others/hanmingDistance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/isValid.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.others/isValid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/missingNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.others/missingNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/pascoTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.others/pascoTriangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/reverseBits.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.others/reverseBits.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +66,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leetcode/ByteDance/LinkList&amp;Trees/lowestCommonAncestor.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.StringOperation/Zconvert.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="577">
+              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+              <folding>
+                <element signature="e#156#1406#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7.DesignProblem/ministStack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="586">
+              <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -60,51 +126,65 @@
         <option value="$PROJECT_DIR$/Leetcode/BiyeDance.py" />
         <option value="$PROJECT_DIR$/Leetcode/ByteDance/LengthOfLongestSubString.py" />
         <option value="$PROJECT_DIR$/Leetcode/ByteDance/LinkList&amp;Trees/lowestCommonAncestor.py" />
+        <option value="$PROJECT_DIR$/3.LinkListOperation/deleteNode.py" />
+        <option value="$PROJECT_DIR$/3.LinkListOperation/reverseList.py" />
+        <option value="$PROJECT_DIR$/6.DrasticPlan/stock_price2.py" />
+        <option value="$PROJECT_DIR$/3.LinkListOperation/addTwoNumbers.py" />
+        <option value="$PROJECT_DIR$/4.TreeOperation/1.TreeTraversal.py" />
+        <option value="$PROJECT_DIR$/10.Truths/ByteDance/WorldCup.py" />
+        <option value="$PROJECT_DIR$/4.TreeOperation/0.TreeSearch.py" />
+        <option value="$PROJECT_DIR$/11.Competition/MusicTime.py" />
+        <option value="$PROJECT_DIR$/1.ArrayOperation/findMedianSortArray.py" />
+        <option value="$PROJECT_DIR$/2.StringOperation/longestPalindrome.py" />
+        <option value="$PROJECT_DIR$/6.DrasticPlan/LongestIncreasingSubsequence.py" />
+        <option value="$PROJECT_DIR$/6.DrasticPlan/ShortestPathOfGraph.py" />
+        <option value="$PROJECT_DIR$/6.DrasticPlan/longestPalindrome.py" />
+        <option value="$PROJECT_DIR$/4.TreeOperation/lowestCommonAncestor.py" />
+        <option value="$PROJECT_DIR$/6.DrasticPlan/rob.py" />
+        <option value="$PROJECT_DIR$/4.TreeOperation/lowestCommonAncestor2.py" />
+        <option value="$PROJECT_DIR$/2.StringOperation/Zconvert.py" />
+        <option value="$PROJECT_DIR$/7.DesignProblem/ministStack.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="438" />
-    <option name="y" value="186" />
-    <option name="width" value="1565" />
-    <option name="height" value="1077" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="456" />
+    <option name="y" value="146" />
+    <option name="width" value="1289" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ShuaTi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShuaTi" type="462c0819:PsiDirectoryNode" />
+              <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingPractice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ShuaTi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShuaTi" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShuaTi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShuaTi" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="ByteDance" type="462c0819:PsiDirectoryNode" />
+              <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="7.DesignProblem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="E:/Workspace/Segmentation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Learning\codingPractice\6.DrasticPlan" />
+      <recent name="E:\Learning\codingPractice" />
       <recent name="E:\Learning\ShuaTi\Leetcode\ByteDance\Strings" />
     </key>
   </component>
@@ -120,8 +200,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LengthOfLongestSubString">
-    <configuration name="LengthOfLongestSubString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Zconvert">
+    <configuration name="LongestIncreasingSubsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +209,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/ByteDance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.DrasticPlan" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Learning\ShuaTi\Leetcode\ByteDance\Strings\LengthOfLongestSubString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.DrasticPlan/LongestIncreasingSubsequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zconvert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.StringOperation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.StringOperation/Zconvert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="isValid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="findMedianSortArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +272,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.ArrayOperation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/isValid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.ArrayOperation/findMedianSortArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="missingNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="longestPalindrome (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +293,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.DrasticPlan" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/missingNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.DrasticPlan/longestPalindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rob" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="longestPalindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,32 +314,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Primary_Algorithms/6.DrasticPlan" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.StringOperation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Primary_Algorithms/6.DrasticPlan/rob.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/test.py" />
+      <option name="SCRIPT_NAME" value="E:\Learning\codingPractice\6.DrasticPlan\longestPalindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,19 +342,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.isValid" />
-      <item itemvalue="Python.missingNumber" />
-      <item itemvalue="Python.rob" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.LengthOfLongestSubString" />
+      <item itemvalue="Python.findMedianSortArray" />
+      <item itemvalue="Python.longestPalindrome" />
+      <item itemvalue="Python.LongestIncreasingSubsequence" />
+      <item itemvalue="Python.longestPalindrome (1)" />
+      <item itemvalue="Python.Zconvert" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LengthOfLongestSubString" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.rob" />
-        <item itemvalue="Python.missingNumber" />
-        <item itemvalue="Python.isValid" />
+        <item itemvalue="Python.Zconvert" />
+        <item itemvalue="Python.longestPalindrome (1)" />
+        <item itemvalue="Python.LongestIncreasingSubsequence" />
+        <item itemvalue="Python.longestPalindrome" />
+        <item itemvalue="Python.findMedianSortArray" />
       </list>
     </recent_temporary>
   </component>
@@ -292,44 +372,49 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="438" y="186" width="1565" height="1077" extended-state="1" />
+    <frame x="356" y="182" width="1289" height="1103" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1761624" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17905675" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21845175" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35113636" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20433436" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33064517" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.24204545" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32953465" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.25403225" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32872927" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/5.Sort&amp;Search/firstBadVersion.py">
+    <entry file="file://$PROJECT_DIR$/5.Sort&amp;Search/firstBadVersion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
           <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/6.DrasticPlan/climbstairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/6.DrasticPlan/maxProfit.py">
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan/maxProfit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="40" selection-start-line="40" selection-end-line="46" />
@@ -343,7 +428,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/6.DrasticPlan/maxSubArray.py">
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan/maxSubArray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
@@ -357,28 +442,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/7.DesignProblem/ministStack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/7.DesignProblem/ShuffleArray.py">
+    <entry file="file://$PROJECT_DIR$/7.DesignProblem/ShuffleArray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
           <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/8.MathProblem/fizzBuzz.py">
+    <entry file="file://$PROJECT_DIR$/8.MathProblem/fizzBuzz.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
           <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/8.MathProblem/countPrimes.py">
+    <entry file="file://$PROJECT_DIR$/8.MathProblem/countPrimes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
@@ -386,56 +464,56 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.Others.py" />
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/reverseBits.py">
+    <entry file="file://$PROJECT_DIR$/9.others/reverseBits.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="34" column="11" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/hanmingDistance.py">
+    <entry file="file://$PROJECT_DIR$/9.others/hanmingDistance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/hammingWeight.py">
+    <entry file="file://$PROJECT_DIR$/9.others/hammingWeight.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/8.MathProblem/isPowerOfThree.py">
+    <entry file="file://$PROJECT_DIR$/8.MathProblem/isPowerOfThree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/8.MathProblem/romanToInt.py">
+    <entry file="file://$PROJECT_DIR$/8.MathProblem/romanToInt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-453">
           <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/pascoTriangle.py">
+    <entry file="file://$PROJECT_DIR$/9.others/pascoTriangle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="783">
           <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/isValid.py">
+    <entry file="file://$PROJECT_DIR$/9.others/isValid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-844">
           <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/IsDuplicated.py">
+    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/IsDuplicated.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
@@ -443,61 +521,178 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/test.py" />
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/Intersection.py">
+    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/Intersection.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/BiyeDance.py" />
-    <entry file="file://$PROJECT_DIR$/Leetcode/ByteDance/Strings/LengthOfLongestSubString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/stock_price.py">
+    <entry file="file://$PROJECT_DIR$/Leetcode/ByteDance/Strings/LengthOfLongestSubString.py" />
+    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/stock_price.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/SumOfTwoNumbers.py">
+    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/SumOfTwoNumbers.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/RotateImg.py">
+    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/RotateImg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/9.others/missingNumber.py">
+    <entry file="file://$PROJECT_DIR$/9.others/missingNumber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/6.DrasticPlan/rob.py">
+    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/Sudoku.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/OnlyONe.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/MoveZero.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/ByteDance/LinkList&amp;Trees/lowestCommonAncestor.py" />
+    <entry file="file://$PROJECT_DIR$/3.LinkListOperation/deleteNode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        <state relative-caret-position="1163">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/Sudoku.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan/climbstairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/OnlyONe.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/3.LinkListOperation/reverseList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/Primary_Algorithms/1.ArrayOperation/MoveZero.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/3.LinkListOperation/mergeTwoLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/ByteDance/LinkList&amp;Trees/lowestCommonAncestor.py">
+    <entry file="file://$PROJECT_DIR$/3.LinkListOperation/addTwoNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="112" column="17" lean-forward="true" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan/stock_price2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Truths/ByteDance/WorldCup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.Competition/MusicTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/findMedianSortArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan/LongestIncreasingSubsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-653">
+          <caret line="40" column="15" lean-forward="true" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan/longestPalindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan/rob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.TreeOperation/lowestCommonAncestor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan/ShortestPathOfGraph.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.TreeOperation/0.TreeSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="20" selection-start-line="20" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.TreeOperation/1.TreeTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="51" column="23" lean-forward="true" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.TreeOperation/lowestCommonAncestor2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.StringOperation/Zconvert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <element signature="e#156#1406#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.DesignProblem/ministStack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
         </state>
       </provider>
     </entry>

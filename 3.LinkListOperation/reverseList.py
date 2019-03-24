@@ -48,9 +48,7 @@ class Solution:
         :rtype: ListNode
         迭代解法: 从递归的思路而来
         """
-        if head is None:
-            return head
-        if head.next is None:
+        if head is None or head.next is None:
             return head
         node1 = None
         node2 = head

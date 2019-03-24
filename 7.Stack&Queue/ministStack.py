@@ -43,7 +43,7 @@ class MinStack:
     def getMin(self) -> int:
         if len(self.nums) != 0:
             return min(self.nums)
-        return
+        return 0
 
 # Your MinStack object will be instantiated and called as such:
 x = 10
