@@ -77,7 +77,7 @@ class Solution:
         result = 0
         for i in range(len(s) - 1, -1, -1):
             current = romanMap[s[i]]
-            result += current if current > maxN  else -current
+            result += current if current > maxN else -current
             maxN = max(current, maxN)
         return result
 
