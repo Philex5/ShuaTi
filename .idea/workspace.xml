@@ -2,107 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7dfdc0b-0908-4965-b8e4-66088ac3537d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ShuaTi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ShuaTi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/AddOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/AddOne.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/Intersection.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/Intersection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/IsDuplicated.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/IsDuplicated.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/MoveZero.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/MoveZero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/OnlyONe.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/OnlyONe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/RotateImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/RotateImg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/Rotate_Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/Rotate_Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/SameOfTwoArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/SameOfTwoArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/ShuffleArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/ShuffleArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/Sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/Sudoku.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/SumOfTwoNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/SumOfTwoNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/Utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/findMedianSortArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/findMedianSortArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/fourSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/fourSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/removeDuplicated.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/removeDuplicated.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/searchInsert.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/searchInsert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/searchRange.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/searchRange.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/stock_price.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/stock_price.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.ArrayOperation/wordSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.ArrayOperation/wordSearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.Truths/ByteDance/WorldCup.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.Truths/ByteDance/WorldCup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.Truths/HuaWei/BeeProblems.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.Truths/HuaWei/BeeProblems.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.Truths/HuaWei/BinaryConvertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.Truths/HuaWei/BinaryConvertion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.Truths/HuaWei/Ming'sRandomNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.Truths/HuaWei/Ming'sRandomNum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.Truths/HuaWei/SteamBottle.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.Truths/HuaWei/SteamBottle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.Truths/HuaWei/fruitCut.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.Truths/HuaWei/fruitCut.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.Truths/Tencent/Qjian.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.Truths/Tencent/Qjian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.Truths/Tencent/carrayFruit.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.Truths/Tencent/carrayFruit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.Truths/Tencent/splitNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.Truths/Tencent/splitNum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.Truths/henshinn.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.Truths/henshinn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.Competition/MusicTime.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.Competition/MusicTime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.StringOperation/Zconvert.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/Zconvert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.StringOperation/countAndSay.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/countAndSay.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.StringOperation/firstUniqChar.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/firstUniqChar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.StringOperation/generateParenthesis.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/generateParenthesis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.StringOperation/isAnagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/isAnagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.StringOperation/isPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/isPalindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.StringOperation/longestCommonPrefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/longestCommonPrefix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.StringOperation/multiply.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/multiply.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.StringOperation/myAtoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/myAtoi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.StringOperation/reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.StringOperation/reverseString.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/reverseString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.StringOperation/strStr.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.StringOperation/strStr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.LinkListOperation/addTwoNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/addTwoNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.LinkListOperation/deleteNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/deleteNode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.LinkListOperation/hasCycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/hasCycle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.LinkListOperation/isPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/isPalindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.LinkListOperation/mergeTwoLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/mergeTwoLists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.LinkListOperation/removNthFromEnd.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/removNthFromEnd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.LinkListOperation/reverseList.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/reverseList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.LinkListOperation/swapPairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.LinkListOperation/swapPairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.TreeOperation/0.TreeSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/0.TreeSearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.TreeOperation/1.TreeTraversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/1.TreeTraversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.TreeOperation/LevelOrderTraversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/LevelOrderTraversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.TreeOperation/MaxDepth.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/MaxDepth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.TreeOperation/isChildStruct.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/isChildStruct.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.TreeOperation/isSymmetric.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/isSymmetric.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.TreeOperation/isValidBST.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/isValidBST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.TreeOperation/lowestCommonAncestor.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/lowestCommonAncestor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.TreeOperation/lowestCommonAncestor2.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/lowestCommonAncestor2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.TreeOperation/sortedArrayToBST.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.TreeOperation/sortedArrayToBST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Sort&amp;Search/firstBadVersion.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.Sort&amp;Search/firstBadVersion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Sort&amp;Search/merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.Sort&amp;Search/merge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/LongestIncreasingSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/LongestIncreasingSubsequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/ShortestPathOfGraph.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/ShortestPathOfGraph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/climbstairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/climbstairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/findItinerary.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/findItinerary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/goldMine.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/goldMine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/longestPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/longestPalindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/maxProfit.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/maxProfit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/maxSubArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/maxSubArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/rob.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/rob.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/stock_price2.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/stock_price2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.Stack&amp;Queue/TwoQueueToStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/7.Stack&amp;Queue/TwoQueueToStack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.Stack&amp;Queue/TwoStackToQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/7.Stack&amp;Queue/TwoStackToQueue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.Stack&amp;Queue/ministStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/7.Stack&amp;Queue/ministStack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.MathProblem/HolladFlag.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/HolladFlag.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.MathProblem/countPrimes.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/countPrimes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.MathProblem/divide.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/divide.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.MathProblem/fizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/fizzBuzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.MathProblem/intToRoman.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/intToRoman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.MathProblem/isPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/isPalindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.MathProblem/isPowerOfThree.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/isPowerOfThree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.MathProblem/letterCombinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/letterCombinations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.MathProblem/maxArea.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/maxArea.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.MathProblem/nextPermutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/nextPermutation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.MathProblem/permute.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/permute.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.MathProblem/romanToInt.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/romanToInt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.MathProblem/threeSumClosest.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.MathProblem/threeSumClosest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.others/hammingWeight.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.others/hammingWeight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.others/hanmingDistance.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.others/hanmingDistance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.others/isValid.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.others/isValid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.others/missingNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.others/missingNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.others/pascoTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.others/pascoTriangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.others/reverseBits.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.others/reverseBits.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8.MathProblem/nextPermutation.py">
+        <entry file="file://$PROJECT_DIR$/1.ArrayOperation/subsets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="605">
-              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            <state relative-caret-position="696">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -136,10 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/4.TreeOperation/lowestCommonAncestor2.py" />
-        <option value="$PROJECT_DIR$/2.StringOperation/Zconvert.py" />
-        <option value="$PROJECT_DIR$/7.DesignProblem/ministStack.py" />
-        <option value="$PROJECT_DIR$/7.Stack&amp;Queue/TwoStackToQueue.py" />
         <option value="$PROJECT_DIR$/7.Stack&amp;Queue/TwoQueueToStack.py" />
         <option value="$PROJECT_DIR$/11.Competition/MusicTime.py" />
         <option value="$PROJECT_DIR$/1.ArrayOperation/Foursum.py" />
@@ -187,14 +83,18 @@
         <option value="$PROJECT_DIR$/4.TreeOperation/print.py" />
         <option value="$PROJECT_DIR$/1.ArrayOperation/NextPermutation.py" />
         <option value="$PROJECT_DIR$/8.MathProblem/nextPermutation.py" />
+        <option value="$PROJECT_DIR$/1.ArrayOperation/search.py" />
+        <option value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/combinationSum.py" />
+        <option value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/combinationSum2.py" />
+        <option value="$PROJECT_DIR$/1.ArrayOperation/subsets.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="672" />
-    <option name="y" value="104" />
-    <option name="width" value="1485" />
-    <option name="height" value="1051" />
+    <option name="x" value="440" />
+    <option name="y" value="42" />
+    <option name="width" value="1498" />
+    <option name="height" value="1134" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -213,11 +113,6 @@
               <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="codingPractice" type="462c0819:PsiDirectoryNode" />
               <item name="1.ArrayOperation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="8.MathProblem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.NextPermutation">
+  <component name="RunManager" selected="Python.combinationSum2">
     <configuration name="NextPermutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="findKthLargest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="combinationSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.Stack&amp;Queue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.Stack&amp;Queue/findKthLargest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/combinationSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maxProduct" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="combinationSum2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,32 +218,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.ArrayOperation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.ArrayOperation/maxProduct.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="partition" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.StringOperation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.StringOperation/partition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/combinationSum2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,6 +252,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.ArrayOperation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.ArrayOperation/search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -393,19 +288,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.partition" />
-      <item itemvalue="Python.maxProduct" />
-      <item itemvalue="Python.findKthLargest" />
       <item itemvalue="Python.print" />
       <item itemvalue="Python.NextPermutation" />
+      <item itemvalue="Python.search" />
+      <item itemvalue="Python.combinationSum" />
+      <item itemvalue="Python.combinationSum2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.combinationSum2" />
+        <item itemvalue="Python.combinationSum" />
+        <item itemvalue="Python.search" />
         <item itemvalue="Python.NextPermutation" />
         <item itemvalue="Python.print" />
-        <item itemvalue="Python.findKthLargest" />
-        <item itemvalue="Python.maxProduct" />
-        <item itemvalue="Python.partition" />
       </list>
     </recent_temporary>
   </component>
@@ -432,19 +327,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="280" y="89" width="1485" height="1051" extended-state="0" />
+    <frame x="520" y="94" width="1498" height="1134" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19671008" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19497283" />
       <window_info id="Structure" order="1" weight="0.24960506" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996232" weight="0.28026173" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2972973" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996232" weight="0.26126125" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36056644" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289183" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32953465" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32832834" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32832834" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.2524698" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3281893" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50037676" side_tool="true" weight="0.3004535" />
@@ -472,6 +368,11 @@
           <line>6</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1.ArrayOperation/search.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -483,61 +384,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/10.Truths/HuaWei/BinaryConvertion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" selection-end-line="23" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.Truths/HuaWei/fruitCut.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.Truths/HuaWei/BeeProblems.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.TreeOperation/1.TreeTraversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/Rotate_Array.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8.MathProblem/romanToInt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/RotateImg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/searchRange.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.ArrayOperation/searchInsert.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -673,24 +519,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/goldMine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="894">
           <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/findItinerary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="48" column="38" lean-forward="true" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -818,8 +650,76 @@
     <entry file="file://$PROJECT_DIR$/1.ArrayOperation/NextPermutation.py" />
     <entry file="file://$PROJECT_DIR$/8.MathProblem/nextPermutation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        <state relative-caret-position="141">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="55" column="30" lean-forward="true" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/rob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="31" column="38" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/findMedianSortArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-696" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/AddOne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/goldMine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/findItinerary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/ShortestPathOfGraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/combinationSum2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/combinationSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="45" column="18" lean-forward="true" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.ArrayOperation/subsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
         </state>
       </provider>
     </entry>
