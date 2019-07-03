@@ -57,6 +57,7 @@ class Solution:
                 return list(d)
         return digits
 
+
 so = Solution()
 print(so.plusOne1([1, 2, 3]))
 

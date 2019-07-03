@@ -11,9 +11,10 @@ def BreadthFirstSearch(root):
     if root is None:
         return values
     deque.append(root)
-    while deque is not None:
+    while len(deque) > 0:
         node = deque.popleft()
-        values.append(node.value)
+        print(node.val)
+        values.append(node.val)
         if node.left is not None:
             deque.append(node.left)
         if node.right is not None:
