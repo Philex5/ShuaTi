@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7dfdc0b-0908-4965-b8e4-66088ac3537d" name="Default" comment="new solved problems">
-      <change afterPath="$PROJECT_DIR$/ArrayOperation/canFinish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayOperation/leastInterval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayOperation/maximalSquare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayOperation/mergeSection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayOperation/searchMatrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayOperation/spiralOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayOperation/spiralOrder2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/NQueue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/countArrangement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/permute2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/subsets2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrasticPlan/jump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrasticPlan/uniquePaths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrasticPlan/uniquePaths2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkListOperation/complexListNode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkListOperation/deleteDuplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MathProblem/myPow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;Queue/LRUCache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringOperation/groupAnagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringOperation/lengthOfLastWord.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringOperation/simplifyPath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreeOperation/FindPath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreeOperation/VerifySquenceOfBST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreeOperation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreeOperation/convert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreeOperation/invertTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreeOperation/numTrees.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayOperation/searchInsert.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayOperation/searchInsert.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,17 +14,7 @@
     <favorites_list name="codingPractice" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ArrayOperation/maxSubArray.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,16 +34,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2.StringOperation/partition.py" />
-        <option value="$PROJECT_DIR$/1.ArrayOperation/maxProduct.py" />
-        <option value="$PROJECT_DIR$/7.Stack&amp;Queue/findKthLargest.py" />
-        <option value="$PROJECT_DIR$/4.TreeOperation/print.py" />
-        <option value="$PROJECT_DIR$/1.ArrayOperation/NextPermutation.py" />
-        <option value="$PROJECT_DIR$/8.MathProblem/nextPermutation.py" />
-        <option value="$PROJECT_DIR$/1.ArrayOperation/search.py" />
-        <option value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/combinationSum.py" />
-        <option value="$PROJECT_DIR$/1.ArrayOperation/subsets.py" />
-        <option value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/combinationSum2.py" />
         <option value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/subsets.py" />
         <option value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/uniquePaths.py" />
         <option value="$PROJECT_DIR$/4.TreeOperation/VerifySquenceOfBST.py" />
@@ -123,20 +75,31 @@
         <option value="$PROJECT_DIR$/LRUCache.py" />
         <option value="$PROJECT_DIR$/ArrayOperation/searchInsert.py" />
         <option value="$PROJECT_DIR$/ArrayOperation/maxSubArray.py" />
+        <option value="$PROJECT_DIR$/ArrayOperation/rotateRight.py" />
+        <option value="$PROJECT_DIR$/ByteOperation/singleNumber.py" />
+        <option value="$PROJECT_DIR$/ByteOperation/reverseBits.py" />
+        <option value="$PROJECT_DIR$/ByteOperation/hammingweights.py" />
+        <option value="$PROJECT_DIR$/Graph/canFinish.py" />
+        <option value="$PROJECT_DIR$/Backtracking/combine.py" />
+        <option value="$PROJECT_DIR$/LinkListOperation/getIntersectionNode.py" />
+        <option value="$PROJECT_DIR$/LinkListOperation/sortList.py" />
+        <option value="$PROJECT_DIR$/minPathSum.py" />
+        <option value="$PROJECT_DIR$/numIslands.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1821" />
-    <option name="y" value="24" />
-    <option name="width" value="1372" />
-    <option name="height" value="1100" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="94" />
+    <option name="y" value="43" />
+    <option name="width" value="1179" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,16 +107,10 @@
               <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="codingPractice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayOperation" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,11 +120,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\learning\codingPractice\DrasticPlan" />
       <recent name="E:\learning\codingPractice\Stack&amp;Queue" />
       <recent name="E:\Learning\codingPractice\TreeOperation" />
       <recent name="$PROJECT_DIR$/LinkListOperation" />
       <recent name="$PROJECT_DIR$/ArrayOperation" />
-      <recent name="$PROJECT_DIR$/TreeOperation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -182,28 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.searchInsert">
-    <configuration name="LRUCache" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\learning\codingPractice\Stack&amp;Queue\LRUCache.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.minPathSum">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,7 +161,91 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="deleteDuplicates" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="addTwoNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkListOperation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkListOperation/addTwoNumbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="combine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Backtracking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backtracking/combine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getIntersectionNode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkListOperation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkListOperation/getIntersectionNode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hammingweights" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ByteOperation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ByteOperation/hammingweights.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="minPathSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,70 +257,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkListOperation/deleteDuplicates.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="invertTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TreeOperation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TreeOperation/invertTree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="numTrees" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Learning\codingPractice\TreeOperation\numTrees.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="searchInsert" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayOperation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayOperation/searchInsert.py" />
+      <option name="SCRIPT_NAME" value="E:\learning\codingPractice\DrasticPlan\minPathSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,19 +281,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.deleteDuplicates" />
-      <item itemvalue="Python.invertTree" />
-      <item itemvalue="Python.numTrees" />
-      <item itemvalue="Python.LRUCache" />
-      <item itemvalue="Python.searchInsert" />
+      <item itemvalue="Python.hammingweights" />
+      <item itemvalue="Python.combine" />
+      <item itemvalue="Python.getIntersectionNode" />
+      <item itemvalue="Python.addTwoNumbers" />
+      <item itemvalue="Python.minPathSum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.searchInsert" />
-        <item itemvalue="Python.LRUCache" />
-        <item itemvalue="Python.numTrees" />
-        <item itemvalue="Python.deleteDuplicates" />
-        <item itemvalue="Python.invertTree" />
+        <item itemvalue="Python.minPathSum" />
+        <item itemvalue="Python.getIntersectionNode" />
+        <item itemvalue="Python.addTwoNumbers" />
+        <item itemvalue="Python.combine" />
+        <item itemvalue="Python.hammingweights" />
       </list>
     </recent_temporary>
   </component>
@@ -385,14 +342,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="309" y="49" width="1179" height="696" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973822" visible="true" weight="0.11485775" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973822" visible="true" weight="0.1849255" />
       <window_info id="Structure" order="1" weight="0.24960506" />
       <window_info id="Favorites" order="2" sideWeight="0.5026178" side_tool="true" weight="0.20782042" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49851412" weight="0.2646421" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49851412" weight="0.235474" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27227724" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -406,6 +363,26 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973822" weight="0.16143498" />
+      <window_info id="Structure" order="1" weight="0.24960506" />
+      <window_info id="Favorites" order="2" sideWeight="0.5026178" side_tool="true" weight="0.20782042" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49851412" visible="true" weight="0.235474" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27227724" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932066" weight="0.33586133" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49932066" weight="0.3177874" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49959382" weight="0.1778742" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3272727" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014859" side_tool="true" weight="0.23253493" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -480,20 +457,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Stack&amp;Queue/ministStack.py" />
-    <entry file="file://$PROJECT_DIR$/MathProblem/isPowerOfThree.py" />
-    <entry file="file://$PROJECT_DIR$/MathProblem/HolladFlag.py" />
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/climbstairs.py" />
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/rob.py" />
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/maxSubArray.py" />
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/maxProfit.py" />
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/ShortestPathOfGraph.py" />
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/stock_price2.py" />
-    <entry file="file://$PROJECT_DIR$/Backtracking/permute2.py" />
-    <entry file="file://$PROJECT_DIR$/Backtracking/combinationSum2.py" />
-    <entry file="file://$PROJECT_DIR$/Backtracking/combinationSum.py" />
-    <entry file="file://$PROJECT_DIR$/Backtracking/countArrangement.py" />
-    <entry file="file://$PROJECT_DIR$/Backtracking/permute.py" />
     <entry file="file://$PROJECT_DIR$/Backtracking/subsets.py" />
     <entry file="file://$PROJECT_DIR$/Backtracking/subsets2.py" />
     <entry file="file://$PROJECT_DIR$/ArrayOperation/merge.py" />
@@ -601,8 +564,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ArrayOperation/maxSubArray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="511">
           <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayOperation/rotateRight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByteOperation/singleNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByteOperation/reverseBits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByteOperation/hammingweights.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backtracking/combine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backtracking/combinationSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backtracking/combinationSum2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkListOperation/getIntersectionNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkListOperation/addTwoNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="99" selection-start-line="99" selection-end-line="108" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkListOperation/sortList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="61" column="14" lean-forward="true" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backtracking/countArrangement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrasticPlan/minPathSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/canFinish.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrasticPlan/numIslands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
         </state>
       </provider>
     </entry>
