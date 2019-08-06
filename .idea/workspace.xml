@@ -1,162 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="c7dfdc0b-0908-4965-b8e4-66088ac3537d" name="Default" comment="new solved problems">
-      <change beforePath="$PROJECT_DIR$/.idea/ShuaTi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ShuaTi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringOperation/findAnagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/StringOperation/findAnagrams.py" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="codingPractice" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StringOperation/findAnagrams.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="Philex5 &lt;philexwoo@gmail.com&gt;" />
-      </list>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/uniquePaths.py" />
-        <option value="$PROJECT_DIR$/4.TreeOperation/VerifySquenceOfBST.py" />
-        <option value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/permute.py" />
-        <option value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/permute2.py" />
-        <option value="$PROJECT_DIR$/Backtracking/combinationSum.py" />
-        <option value="$PROJECT_DIR$/Backtracking/combinationSum2.py" />
-        <option value="$PROJECT_DIR$/Backtracking/findItinerary.py" />
-        <option value="$PROJECT_DIR$/Backtracking/permute.py" />
-        <option value="$PROJECT_DIR$/Backtracking/subsets.py" />
-        <option value="$PROJECT_DIR$/Backtracking/subsets2.py" />
-        <option value="$PROJECT_DIR$/Backtracking/countArrangement.py" />
-        <option value="$PROJECT_DIR$/ArrayOperation/mergeSection.py" />
-        <option value="$PROJECT_DIR$/DrasticPlan/uniquePaths2.py" />
-        <option value="$PROJECT_DIR$/ArrayOperation/jump.py" />
-        <option value="$PROJECT_DIR$/TreeOperation/FindPath.py" />
-        <option value="$PROJECT_DIR$/DrasticPlan/jump.py" />
-        <option value="$PROJECT_DIR$/ArrayOperation/spiralOrder.py" />
-        <option value="$PROJECT_DIR$/ArrayOperation/spiralOrder2.py" />
-        <option value="$PROJECT_DIR$/ArrayOperation/searchMatrix.py" />
-        <option value="$PROJECT_DIR$/LinkListOperation/complexListNode.py" />
-        <option value="$PROJECT_DIR$/TreeOperation/convert.py" />
-        <option value="$PROJECT_DIR$/StringOperation/simplifyPath.py" />
-        <option value="$PROJECT_DIR$/StringOperation/groupAnagram.py" />
-        <option value="$PROJECT_DIR$/NQueue.py" />
-        <option value="$PROJECT_DIR$/leastInterval.py" />
-        <option value="$PROJECT_DIR$/ByteOperation/Nsqaure.py" />
-        <option value="$PROJECT_DIR$/MathProblem/myPow.py" />
-        <option value="$PROJECT_DIR$/canFinish.py" />
-        <option value="$PROJECT_DIR$/ArrayOperation/AddOne.py" />
-        <option value="$PROJECT_DIR$/StringOperation/lengthOfLastWord.py" />
-        <option value="$PROJECT_DIR$/maximalSquare.py" />
-        <option value="$PROJECT_DIR$/invertTree.py" />
-        <option value="$PROJECT_DIR$/TreeOperation/__init__.py" />
-        <option value="$PROJECT_DIR$/TreeOperation/invertTree.py" />
-        <option value="$PROJECT_DIR$/TreeOperation/TreeSearch.py" />
-        <option value="$PROJECT_DIR$/deleteDuplicates.py" />
-        <option value="$PROJECT_DIR$/numTrees.py" />
-        <option value="$PROJECT_DIR$/LRUCache.py" />
-        <option value="$PROJECT_DIR$/ArrayOperation/searchInsert.py" />
-        <option value="$PROJECT_DIR$/ArrayOperation/maxSubArray.py" />
-        <option value="$PROJECT_DIR$/ArrayOperation/rotateRight.py" />
-        <option value="$PROJECT_DIR$/ByteOperation/singleNumber.py" />
-        <option value="$PROJECT_DIR$/ByteOperation/reverseBits.py" />
-        <option value="$PROJECT_DIR$/ByteOperation/hammingweights.py" />
-        <option value="$PROJECT_DIR$/Graph/canFinish.py" />
-        <option value="$PROJECT_DIR$/Backtracking/combine.py" />
-        <option value="$PROJECT_DIR$/LinkListOperation/getIntersectionNode.py" />
-        <option value="$PROJECT_DIR$/LinkListOperation/sortList.py" />
-        <option value="$PROJECT_DIR$/minPathSum.py" />
-        <option value="$PROJECT_DIR$/numIslands.py" />
-        <option value="$PROJECT_DIR$/findAnagrams.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="418" />
-    <option name="y" value="196" />
-    <option name="width" value="1179" />
-    <option name="height" value="659" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\learning\codingPractice\DrasticPlan" />
-      <recent name="E:\learning\codingPractice\Stack&amp;Queue" />
-      <recent name="E:\Learning\codingPractice\TreeOperation" />
-      <recent name="$PROJECT_DIR$/LinkListOperation" />
-      <recent name="$PROJECT_DIR$/ArrayOperation" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.minPathSum">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -300,10 +145,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.hammingweights" />
+      <item itemvalue="Python.addTwoNumbers" />
       <item itemvalue="Python.combine" />
       <item itemvalue="Python.getIntersectionNode" />
-      <item itemvalue="Python.addTwoNumbers" />
+      <item itemvalue="Python.hammingweights" />
       <item itemvalue="Python.minPathSum" />
     </list>
     <recent_temporary>
