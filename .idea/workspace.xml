@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7dfdc0b-0908-4965-b8e4-66088ac3537d" name="Default" comment="new solved problems">
+      <change beforePath="$PROJECT_DIR$/.idea/ShuaTi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ShuaTi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/findAnagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/StringOperation/findAnagrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringOperation/findAnagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/StringOperation/findAnagrams.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,14 +17,20 @@
     <favorites_list name="codingPractice" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StringOperation/findAnagrams.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/getPermutation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -45,6 +53,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/uniquePaths.py" />
+        <option value="$PROJECT_DIR$/4.TreeOperation/VerifySquenceOfBST.py" />
+        <option value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/permute.py" />
         <option value="$PROJECT_DIR$/6.DrasticPlan&amp;Backtracking/permute2.py" />
         <option value="$PROJECT_DIR$/Backtracking/combinationSum.py" />
         <option value="$PROJECT_DIR$/Backtracking/combinationSum2.py" />
@@ -92,24 +103,22 @@
         <option value="$PROJECT_DIR$/LinkListOperation/sortList.py" />
         <option value="$PROJECT_DIR$/minPathSum.py" />
         <option value="$PROJECT_DIR$/numIslands.py" />
-        <option value="$PROJECT_DIR$/pathsum.py" />
         <option value="$PROJECT_DIR$/findAnagrams.py" />
-        <option value="$PROJECT_DIR$/StringOperation/slidwindow" />
-        <option value="$PROJECT_DIR$/getPermutation.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="372" />
-    <option name="y" value="129" />
-    <option name="width" value="1300" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="418" />
+    <option name="y" value="196" />
+    <option name="width" value="1179" />
+    <option name="height" value="659" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,7 +130,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,11 +139,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Learning\codingPractice\StringOperation" />
-      <recent name="E:\Learning\codingPractice\TreeOperation" />
       <recent name="E:\learning\codingPractice\DrasticPlan" />
       <recent name="E:\learning\codingPractice\Stack&amp;Queue" />
+      <recent name="E:\Learning\codingPractice\TreeOperation" />
       <recent name="$PROJECT_DIR$/LinkListOperation" />
+      <recent name="$PROJECT_DIR$/ArrayOperation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -150,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.getPermutation">
+  <component name="RunManager" selected="Python.minPathSum">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="findAnagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="addTwoNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,11 +188,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkListOperation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Learning\codingPractice\StringOperation\findAnagrams.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkListOperation/addTwoNumbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="combine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Backtracking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backtracking/combine.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="getPermutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hammingweights" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,11 +251,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ByteOperation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getPermutation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ByteOperation/hammingweights.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,27 +285,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pathsum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Learning\codingPractice\TreeOperation\pathsum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,19 +300,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.hammingweights" />
+      <item itemvalue="Python.combine" />
       <item itemvalue="Python.getIntersectionNode" />
+      <item itemvalue="Python.addTwoNumbers" />
       <item itemvalue="Python.minPathSum" />
-      <item itemvalue="Python.pathsum" />
-      <item itemvalue="Python.findAnagrams" />
-      <item itemvalue="Python.getPermutation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.getPermutation" />
-        <item itemvalue="Python.findAnagrams" />
-        <item itemvalue="Python.pathsum" />
         <item itemvalue="Python.minPathSum" />
         <item itemvalue="Python.getIntersectionNode" />
+        <item itemvalue="Python.addTwoNumbers" />
+        <item itemvalue="Python.combine" />
+        <item itemvalue="Python.hammingweights" />
       </list>
     </recent_temporary>
   </component>
@@ -353,21 +361,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="372" y="129" width="1300" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="418" y="196" width="1179" height="659" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973822" weight="0.16640253" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973822" visible="true" weight="0.18404908" />
       <window_info id="Structure" order="1" weight="0.24960506" />
       <window_info id="Favorites" order="2" sideWeight="0.5026178" side_tool="true" weight="0.20782042" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49851412" visible="true" weight="0.22727273" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49851412" weight="0.235474" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27227724" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932066" weight="0.33586133" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49932066" weight="0.3177874" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49959382" weight="0.1778742" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="6" sideWeight="0.49932066" visible="true" weight="0.31619048" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49932066" weight="0.33451957" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49959382" weight="0.4647619" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3272727" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014859" side_tool="true" weight="0.23253493" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -533,6 +540,7 @@
     <entry file="file://$PROJECT_DIR$/ArrayOperation/canFinish.py" />
     <entry file="file://$PROJECT_DIR$/TreeOperation/TreeTraversal.py" />
     <entry file="file://$PROJECT_DIR$/TreeOperation/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/TreeOperation/invertTree.py" />
     <entry file="file://$PROJECT_DIR$/TreeOperation/TreeSearch.py" />
     <entry file="file://$PROJECT_DIR$/ArrayOperation/maximalSquare.py" />
     <entry file="file://$PROJECT_DIR$/LinkListOperation/deleteDuplicates.py" />
@@ -665,48 +673,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TreeOperation/invertTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="53" selection-start-line="53" selection-end-line="67" selection-end-column="19" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/findAnagrams.py" />
+    <entry file="file://$PROJECT_DIR$/.idea/ShuaTi.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/TreeOperation/pathsum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StringOperation/slidwindow">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/StringOperation/findAnagrams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/StringOperation/slidewindow.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getPermutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
