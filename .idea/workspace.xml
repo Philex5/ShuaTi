@@ -3,6 +3,12 @@
   <component name="FavoritesManager">
     <favorites_list name="codingPractice" />
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="418" />
+    <option name="y" value="196" />
+    <option name="width" value="1179" />
+    <option name="height" value="776" />
+  </component>
   <component name="RunManager" selected="Python.minPathSum">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,10 +151,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.addTwoNumbers" />
+      <item itemvalue="Python.hammingweights" />
       <item itemvalue="Python.combine" />
       <item itemvalue="Python.getIntersectionNode" />
-      <item itemvalue="Python.hammingweights" />
+      <item itemvalue="Python.addTwoNumbers" />
       <item itemvalue="Python.minPathSum" />
     </list>
     <recent_temporary>
