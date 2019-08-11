@@ -1,15 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2ab281d-5ce5-412d-a59e-4e232316ec82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/canFinish.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/canFinish.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getPermutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/getPermutation.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="codingPractice" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="418" />
-    <option name="y" value="196" />
-    <option name="width" value="1179" />
-    <option name="height" value="776" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Graph/canFinish.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="98" column="24" lean-forward="true" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
-  <component name="RunManager" selected="Python.minPathSum">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DrasticPlan/lengthOfLIS.py" />
+        <option value="$PROJECT_DIR$/getPermutation.py" />
+        <option value="$PROJECT_DIR$/Graph/canFinish.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2" />
+    <option name="y" value="34" />
+    <option name="width" value="1179" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codingPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.canFinish">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="combine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="canFinish" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Backtracking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backtracking/combine.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/canFinish.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hammingweights" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="getPermutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ByteOperation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ByteOperation/hammingweights.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getPermutation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,19 +235,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.hammingweights" />
-      <item itemvalue="Python.combine" />
       <item itemvalue="Python.getIntersectionNode" />
       <item itemvalue="Python.addTwoNumbers" />
       <item itemvalue="Python.minPathSum" />
+      <item itemvalue="Python.getPermutation" />
+      <item itemvalue="Python.canFinish" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.canFinish" />
+        <item itemvalue="Python.getPermutation" />
         <item itemvalue="Python.minPathSum" />
         <item itemvalue="Python.getIntersectionNode" />
         <item itemvalue="Python.addTwoNumbers" />
-        <item itemvalue="Python.combine" />
-        <item itemvalue="Python.hammingweights" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +256,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c7dfdc0b-0908-4965-b8e4-66088ac3537d" name="Default" comment="" />
+      <changelist id="d2ab281d-5ce5-412d-a59e-4e232316ec82" name="Default Changelist" comment="" />
       <created>1550662281900</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -212,18 +296,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="418" y="196" width="1179" height="659" extended-state="0" />
+    <frame x="2" y="34" width="1179" height="696" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973822" visible="true" weight="0.18404908" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973822" weight="0.18404908" />
       <window_info id="Structure" order="1" weight="0.24960506" />
       <window_info id="Favorites" order="2" sideWeight="0.5026178" side_tool="true" weight="0.20782042" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49851412" weight="0.235474" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49851412" weight="0.2597865" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27227724" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="6" sideWeight="0.49932066" visible="true" weight="0.31619048" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49932066" weight="0.31570762" />
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49932066" weight="0.33451957" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49959382" weight="0.4647619" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3272727" />
@@ -327,10 +411,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/uniquePaths.py" />
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/jump.py" />
-    <entry file="file://$PROJECT_DIR$/ArrayOperation/spiralOrder2.py" />
-    <entry file="file://$PROJECT_DIR$/ArrayOperation/spiralOrder.py" />
     <entry file="file://$PROJECT_DIR$/ArrayOperation/searchMatrix.py" />
     <entry file="file://$PROJECT_DIR$/LinkListOperation/complexListNode.py" />
     <entry file="file://$PROJECT_DIR$/TreeOperation/VerifySquenceOfBST.py" />
@@ -510,13 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/canFinish.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DrasticPlan/numIslands.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -536,6 +609,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backtracking/permute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrasticPlan/lengthOfLIS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getPermutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="65" column="11" lean-forward="true" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Backtracking/permute2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/canFinish.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="98" column="24" lean-forward="true" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

@@ -30,11 +30,82 @@
 class Solution(object):
     def canFinish(self, numCourses, prerequisites):
         """
-        拓扑排序(kahn算法)
+        广度优先排序/拓扑排序：
+        [0, 1] <-> 0 <- 1, 能否完成，相当于判断是否存在有向无环图(DAG)
+        将入度为0的结点加入列表
+        去掉入度为0的结点，再将它指向的结点入度-1，学习过的courses + 1 若减去之后为0，加入列表，
+        courses = numCourses -> can Finish
         :type numCourses: int
         :type prerequisites: List[List[int]]
         :rtype: bool
+        时间复杂度: O(n^2)
+        空间复杂度: O(n^2)
         """
+        # record nodes which into == 0
+        intos = [0] * numCourses
+        in0nodes = []
+        links = [[0] * numCourses for i in range(numCourses)]
+        for prere in prerequisites:
+            intos[prere[0]] += 1
+            links[prere[1]][prere[0]] = 1
+        for c, val in enumerate(intos):
+            if val == 0:
+                in0nodes.append(c)
+        print(in0nodes)
+        count = 0
+        while in0nodes:
+            node = in0nodes.pop()
+            count += 1
+            for i in range(numCourses):
+                if links[node][i] == 1:
+                    intos[i] -= 1
+                    if intos[i] == 0:
+                        in0nodes.append(i)
+        if count == numCourses:
+            return True
+        return False
+
+    def canFinish1(self, numCourses, prerequisites):
+        """
+        深度优先排序
+        通过DFS判断图中是否有环
+        使用标记数组
+        被当前结点访问过标记为1，若遇到为1的直接False
+        被其他节点访问过标记为-1，无需重复搜索，直接返回True
+        :param numCourses:
+        :param prerequisites:
+        :return:
+        时间复杂度: O(n^2)
+        空间复杂度：O(n^2)
+        """
+        links = [[] for i in range(numCourses)]
+        flags = [0] * numCourses
+        for prere in prerequisites:
+            links[prere[1]].append(prere[0])
+        for node in range(numCourses):
+            if not self.dfs(node, links, flags, numCourses):
+                return False
+        return True
+
+    def dfs(self, node, links, flags, numCourses):
+        if flags[node] == -1:
+             return True
+        if flags[node] == 1:
+             return False
+        flags[node] = 1
+        for i in links[node]:
+            if not self.dfs(i, links, flags, numCourses):
+                return False
+        flags[node] = -1
+        return True
+
+
+so = Solution()
+print(so.canFinish1(2, [[0, 1]]))
+
+
+
+
 
 
 

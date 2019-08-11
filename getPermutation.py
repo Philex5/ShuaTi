@@ -25,6 +25,7 @@
 输出: "2314"
 """
 
+import math
 
 class Solution:
     def getPermutation(self, n: int, k: int) -> str:
@@ -40,17 +41,44 @@ class Solution:
                  res.append(temp)
                  return
              for j in range(1, n+1):
-                 if str(j)  in temp:
+                 if str(j) in temp:
                      continue
                  helper(j, temp + str(j))
          helper(0, '')
          print(res)
          return res[k-1]
 
+    def getPermutation1(self, n: int, k: int) -> str:
+        """
+         123, 1为首字母，有23,32 ,2！
+         第n个位置的数字，由 k // (n-1)! 决定
+        """
+        if n == 0:
+            return ''
+        res = ''
+        nums = [str(i) for i in range(1, n+1)]
+        """
+        1 -> 0  '123'  0/2 =0
+        2 -> 1  '132'  1/2 =0
+        
+        3 -> 2  '213' 2/2 = 1
+        4 -> 3  '231' 3/2 = 1
+        """
+        # 从0开始编号，保证k除以同一组的数值相同
+        k -= 1
+        for i in range(n):
+            t = math.factorial(n-i-1)
+            # 第几个组
+            loc = k // t
+            res += nums[loc]
+            print(t, loc)
+            nums = nums[:loc] + nums[loc+1:]
+            k %= t
+        return res
 
 
 so = Solution()
-print(so.getPermutation(3, 3))
+print(so.getPermutation1(3, 4))
 
 
 
