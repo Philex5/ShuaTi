@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d2ab281d-5ce5-412d-a59e-4e232316ec82" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/canFinish.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/canFinish.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getPermutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/getPermutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getPermutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/StringOperation/getPermutation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Graph/canFinish.py">
+        <entry file="file://$PROJECT_DIR$/coinChange.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="98" column="24" lean-forward="true" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+            <state relative-caret-position="426">
+              <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -44,14 +43,17 @@
         <option value="$PROJECT_DIR$/DrasticPlan/lengthOfLIS.py" />
         <option value="$PROJECT_DIR$/getPermutation.py" />
         <option value="$PROJECT_DIR$/Graph/canFinish.py" />
+        <option value="$PROJECT_DIR$/uniqueMorseRepresentations.py" />
+        <option value="$PROJECT_DIR$/maxUncrossedLines.py" />
+        <option value="$PROJECT_DIR$/coinChange.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="y" value="34" />
-    <option name="width" value="1179" />
-    <option name="height" value="696" />
+    <option name="x" value="586" />
+    <option name="y" value="21" />
+    <option name="width" value="751" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -67,11 +69,6 @@
             </path>
             <path>
               <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -80,6 +77,13 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\learning\codingPractice\DrasticPlan" />
+      <recent name="E:\learning\codingPractice\ArrayOperation" />
+      <recent name="E:\learning\codingPractice\StringOperation" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -93,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.canFinish">
+  <component name="RunManager" selected="Python.coinChange">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,27 +111,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="addTwoNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkListOperation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkListOperation/addTwoNumbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="getIntersectionNode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="coinChange" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkListOperation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkListOperation/getIntersectionNode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coinChange.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +173,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getPermutation.py" />
+      <option name="SCRIPT_NAME" value="E:\learning\codingPractice\StringOperation\getPermutation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,6 +203,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="uniqueMorseRepresentations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\learning\codingPractice\ArrayOperation\uniqueMorseRepresentations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,19 +239,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.getIntersectionNode" />
-      <item itemvalue="Python.addTwoNumbers" />
       <item itemvalue="Python.minPathSum" />
       <item itemvalue="Python.getPermutation" />
       <item itemvalue="Python.canFinish" />
+      <item itemvalue="Python.uniqueMorseRepresentations" />
+      <item itemvalue="Python.coinChange" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.coinChange" />
+        <item itemvalue="Python.uniqueMorseRepresentations" />
         <item itemvalue="Python.canFinish" />
         <item itemvalue="Python.getPermutation" />
         <item itemvalue="Python.minPathSum" />
-        <item itemvalue="Python.getIntersectionNode" />
-        <item itemvalue="Python.addTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -296,14 +300,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="34" width="1179" height="696" extended-state="0" />
+    <frame x="586" y="21" width="751" height="735" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973822" weight="0.18404908" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973822" weight="0.24452235" />
       <window_info id="Structure" order="1" weight="0.24960506" />
       <window_info id="Favorites" order="2" sideWeight="0.5026178" side_tool="true" weight="0.20782042" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49851412" weight="0.2597865" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49851412" visible="true" weight="0.2064057" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27227724" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -411,9 +415,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ArrayOperation/searchMatrix.py" />
-    <entry file="file://$PROJECT_DIR$/LinkListOperation/complexListNode.py" />
-    <entry file="file://$PROJECT_DIR$/TreeOperation/VerifySquenceOfBST.py" />
     <entry file="file://$PROJECT_DIR$/TreeOperation/FindPath.py" />
     <entry file="file://$PROJECT_DIR$/StringOperation/simplifyPath.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -622,13 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/getPermutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="65" column="11" lean-forward="true" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Backtracking/permute2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -639,7 +633,35 @@
     <entry file="file://$PROJECT_DIR$/Graph/canFinish.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
-          <caret line="98" column="24" lean-forward="true" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+          <caret line="98" column="24" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringOperation/getPermutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="54" column="11" lean-forward="true" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayOperation/uniqueMorseRepresentations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="70" column="15" lean-forward="true" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrasticPlan/maxUncrossedLines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coinChange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
         </state>
       </provider>
     </entry>
