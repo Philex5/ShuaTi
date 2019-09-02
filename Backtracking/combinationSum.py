@@ -21,7 +21,7 @@ candidates 中的数字可以无限制重复被选取。
 ]
 """
 """
- if not candidates:
+        if not candidates:
             return []
         if min(candidates) > target:
             return []
@@ -40,6 +40,7 @@ candidates 中的数字可以无限制重复被选取。
         helper(candidates,target,[])
         return res
 """
+
 class Solution:
     def combinationSum(self, candidates, target):
         if not candidates:
@@ -47,16 +48,18 @@ class Solution:
         # 先排序，避免重复
         candidates.sort()
         res = []
-        def find(nums, i, total, res, target, curr):
+        def find(i, total, curr):
+            print(total)
             if total == target:
                 res.append(curr)
                 return
-            for j in range(i, len(nums)):
-                if total + nums[j] > target:
+            for j in range(i, len(candidates)):
+                if total + candidates[j] > target:
                     break
-                find(nums, j, total + nums[j], res, target, curr + [nums[j]])
-            find(candidates, 0, 0, res, target, [])
+                find(j, total + candidates[j], curr + [candidates[j]])
+        find(0, 0, [])
         return res
+
 
 so = Solution()
 print(so.combinationSum([2, 3, 5], 8))

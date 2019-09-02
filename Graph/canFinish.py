@@ -61,6 +61,7 @@ class Solution(object):
                     intos[i] -= 1
                     if intos[i] == 0:
                         in0nodes.append(i)
+                        break
         if count == numCourses:
             return True
         return False

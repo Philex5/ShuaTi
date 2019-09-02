@@ -16,6 +16,7 @@
 class Solution(object):
     def lengthOfLIS(self, nums):
         """
+        动态规划
         dp[i] = max(dp[i], dp[j] + 1) j < i and nums[j] < nums[i]
         注意dp[i]的值可能在j遍历[0,i]的时候发生了改变
         :type nums: List[int]
@@ -23,10 +24,14 @@ class Solution(object):
         """
         if not nums:
             return 0
-        dp = [1] * len(nums)
-        for i in range(1, len(nums)):
+        dp = [0] * len(nums)
+        for i in range(len(nums)):
+            dp[i] = 1
             for j in range(i):
                 if nums[j] < nums[i]:
-                    dp[i] = max(dp[j] + 1, dp[i])
+                    dp[i] = max(dp[i], dp[j]+1)
         return max(dp)
+
+so = Solution()
+print(so.lengthOfLIS([5, 3, 4, 8, 6, 7]))
 
