@@ -10,7 +10,8 @@ class Node:
 
 
 class TreeTraversal:
-    # 前序遍历同深度遍历
+    # 前序遍历类似深度搜索
+    # 先右子节点后左子节点，且从右边弹出
     def PreOrderTraversal(self, root):
         if root is None:
             return
@@ -33,7 +34,6 @@ class TreeTraversal:
                 deque.append(node.left)
 
 
-
     # 中序遍历
     # 递归方法
     def InOrderTraversal(self, root):
@@ -49,7 +49,7 @@ class TreeTraversal:
             return
         deque = collections.deque()
         node = root
-        deque.append(node)
+
         while deque or node:
             if node is not None:
                 deque.append(node)
@@ -70,18 +70,21 @@ class TreeTraversal:
 
     # 非递归解法
     def PostOrderTraversal1(self, root):
-        deque = collections.deque()
+        # 把后续遍历的逆序存到stack2中
+        stack1 = []
+        stack2 = []
         node = root
-        while deque or node:
-            if node is not None:
-                deque.append(node)
-                if node.right is not None:
-                    deque.append(node.right)
-                node = node.left
-            else:
-                node = deque.pop()
-                print(node.val)
-                node = deque.pop
+        stack1.append(node)
+        while len(stack1) > 0:
+            node = stack1.pop()
+            if node.left:
+                stack1.append(node.left)
+            if node.right:
+                stack1.append(node.right)
+            stack2.append(node)
+        while len(stack2) > 0:
+            print(stack2.pop().val)
+
 
 
 if __name__ == '__main__':
@@ -102,12 +105,12 @@ if __name__ == '__main__':
     node5.right = node8
 
     tt = TreeTraversal()
-    # tt.InOrderTraversal(node1)
-    # tt.InOrderTraversal(node1)
-    tt.PreOrderTraversal2(node1)
+    # tt.InOrderTraversal1(node1)
+    # tt.InOrderTraversal2(node1)
+    # tt.PreOrderTraversal1(node1)
+    # tt.PreOrderTraversal2(node1)
     # tt.PostOrderTraversal(node1)
-    # tt.PostOrderTraversal(node1)
-    # tt.PostOrderTraversal1(node1)
+    tt.PostOrderTraversal1(node1)
 
 
 

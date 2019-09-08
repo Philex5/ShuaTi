@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/minIncrementForUnique.py" line="16" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="d2ab281d-5ce5-412d-a59e-4e232316ec82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DrasticPlan/coinChange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringOperation/canMakePaliQueries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/combinationSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backtracking/combinationSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrasticPlan/ShortestPathOfGraph.py" beforeDir="false" afterPath="$PROJECT_DIR$/DrasticPlan/ShortestPathOfGraph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrasticPlan/lengthOfLIS.py" beforeDir="false" afterPath="$PROJECT_DIR$/DrasticPlan/lengthOfLIS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/canFinish.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/canFinish.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coinChange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/NQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/NQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/combinationSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/combinationSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/combinationSum2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/combinationSum2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/combine.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/combine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/countArrangement.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/countArrangement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/findItinerary.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/findItinerary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/permute.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/permute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/permute2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/permute2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/subsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/subsets2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/subsets2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/canFinish.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/canFinish.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreeOperation/TreeTraversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/TreeOperation/TreeTraversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canMakePaliQueries.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,19 +27,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="codingPractice" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/minIncrementForUnique.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,63 +38,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/getPermutation.py" />
-        <option value="$PROJECT_DIR$/uniqueMorseRepresentations.py" />
-        <option value="$PROJECT_DIR$/maxUncrossedLines.py" />
-        <option value="$PROJECT_DIR$/coinChange.py" />
-        <option value="$PROJECT_DIR$/DrasticPlan/lengthOfLIS.py" />
-        <option value="$PROJECT_DIR$/Graph/canFinish.py" />
-        <option value="$PROJECT_DIR$/squareOfx.py" />
-        <option value="$PROJECT_DIR$/DrasticPlan/ShortestPathOfGraph.py" />
-        <option value="$PROJECT_DIR$/Backtracking/combinationSum.py" />
-        <option value="$PROJECT_DIR$/coinChange2.py" />
-        <option value="$PROJECT_DIR$/numPrimeArrangement.py" />
-        <option value="$PROJECT_DIR$/dietPlanPerformanc.py" />
-        <option value="$PROJECT_DIR$/dietPlanPerformance.py" />
-        <option value="$PROJECT_DIR$/canMakePaliQueries.py" />
-        <option value="$PROJECT_DIR$/minIncrementForUnique.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1552" />
-    <option name="y" value="266" />
-    <option name="width" value="1274" />
-    <option name="height" value="743" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codingPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codingPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1QGJFEOC2No6MsSOyuLuP0thqsv" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\learning\codingPractice\TreeOperation" />
+      <recent name="E:\learning\codingPractice\Backtracking" />
+      <recent name="E:\learning\codingPractice\StringOperation" />
       <recent name="E:\learning\codingPractice\zothers" />
       <recent name="E:\learning\codingPractice\MathProblem" />
-      <recent name="E:\learning\codingPractice\DrasticPlan" />
-      <recent name="E:\learning\codingPractice\halfDevision" />
-      <recent name="E:\learning\codingPractice\ArrayOperation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -116,7 +64,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.minIncrementForUnique">
+  <component name="RunManager" selected="Python.TreeTraversal">
+    <configuration name="LCS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DrasticPlan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DrasticPlan/LCS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TreeTraversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TreeOperation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TreeOperation/TreeTraversal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,6 +128,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="backpack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DrasticPlan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DrasticPlan/backpack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="canMakePaliQueries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/canMakePaliQueries.py" />
+      <option name="SCRIPT_NAME" value="E:\learning\codingPractice\StringOperation\canMakePaliQueries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="coinChange2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="largeSubset" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,74 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DrasticPlan" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\learning\codingPractice\DrasticPlan\coinChange2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dietPlanPerformance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\learning\codingPractice\zothers\dietPlanPerformance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="minIncrementForUnique" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/minIncrementForUnique.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="numPrimeArrangement" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\learning\codingPractice\MathProblem\numPrimeArrangement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DrasticPlan/largeSubset.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,19 +206,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.coinChange2" />
-      <item itemvalue="Python.numPrimeArrangement" />
-      <item itemvalue="Python.dietPlanPerformance" />
       <item itemvalue="Python.canMakePaliQueries" />
-      <item itemvalue="Python.minIncrementForUnique" />
+      <item itemvalue="Python.LCS" />
+      <item itemvalue="Python.largeSubset" />
+      <item itemvalue="Python.backpack" />
+      <item itemvalue="Python.TreeTraversal" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.minIncrementForUnique" />
+        <item itemvalue="Python.TreeTraversal" />
+        <item itemvalue="Python.backpack" />
+        <item itemvalue="Python.largeSubset" />
+        <item itemvalue="Python.LCS" />
         <item itemvalue="Python.canMakePaliQueries" />
-        <item itemvalue="Python.dietPlanPerformance" />
-        <item itemvalue="Python.numPrimeArrangement" />
-        <item itemvalue="Python.coinChange2" />
       </list>
     </recent_temporary>
   </component>
@@ -309,78 +257,13 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1552" y="266" width="1274" height="743" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49508196" weight="0.20550162" />
-      <window_info id="Structure" order="1" weight="0.24960506" />
-      <window_info id="Favorites" order="2" sideWeight="0.50491804" weight="0.18898809" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49851412" weight="0.29064038" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27227724" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49932066" weight="0.31570762" />
-      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49932066" weight="0.33451957" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49959382" weight="0.46469623" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3272727" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014859" side_tool="true" weight="0.23253493" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Data View" order="3" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49508196" visible="true" weight="0.20550162" />
-      <window_info id="Structure" order="1" weight="0.24960506" />
-      <window_info id="Favorites" order="2" sideWeight="0.50491804" weight="0.18898809" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49851412" visible="true" weight="0.29064038" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27227724" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49932066" weight="0.31570762" />
-      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49932066" weight="0.33451957" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49959382" weight="0.46469623" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3272727" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014859" side_tool="true" weight="0.23253493" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Data View" order="3" />
-    </layout-to-restore>
-  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -432,287 +315,5 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ArrayOperation/firstBadVersion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayOperation/findMedianSortArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayOperation/canFinish.py" />
-    <entry file="file://$PROJECT_DIR$/TreeOperation/TreeTraversal.py" />
-    <entry file="file://$PROJECT_DIR$/TreeOperation/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/TreeOperation/invertTree.py" />
-    <entry file="file://$PROJECT_DIR$/TreeOperation/TreeSearch.py" />
-    <entry file="file://$PROJECT_DIR$/ArrayOperation/maximalSquare.py" />
-    <entry file="file://$PROJECT_DIR$/LinkListOperation/deleteDuplicates.py" />
-    <entry file="file://$PROJECT_DIR$/TreeOperation/numTrees.py" />
-    <entry file="file://$PROJECT_DIR$/TreeOperation/convert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="292" column="8" selection-start-line="292" selection-start-column="8" selection-end-line="292" selection-end-column="8" />
-          <folding>
-            <element signature="e#26#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stack&amp;Queue/LRUCache.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayOperation/searchInsert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayOperation/maxSubArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayOperation/rotateRight.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ByteOperation/singleNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ByteOperation/reverseBits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ByteOperation/hammingweights.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backtracking/combine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backtracking/combinationSum2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkListOperation/getIntersectionNode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkListOperation/addTwoNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="99" selection-start-line="99" selection-end-line="108" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkListOperation/sortList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="61" column="14" lean-forward="true" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backtracking/countArrangement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/numIslands.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/findAnagrams.py" />
-    <entry file="file://$PROJECT_DIR$/.idea/ShuaTi.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StringOperation/findAnagrams.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backtracking/permute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1050" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backtracking/permute2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StringOperation/getPermutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200">
-          <caret line="54" column="11" lean-forward="true" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayOperation/uniqueMorseRepresentations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="70" column="15" lean-forward="true" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayOperation/merge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="91" column="17" lean-forward="true" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/uniquePaths.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/minPathSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/maxSubArray.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/maxUncrossedLines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/lengthOfLIS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HalfDevision/squareOfx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/coinChange.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/ShortestPathOfGraph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-          <folding>
-            <element signature="e#155#165#0" expanded="true" />
-            <element signature="e#3597#3768#0" />
-            <element signature="e#3808#3947#0" />
-            <element signature="e#3993#4151#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrasticPlan/coinChange2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="69" column="22" lean-forward="true" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/canFinish.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Backtracking/combinationSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MathProblem/numPrimeArrangement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canMakePaliQueries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zothers/dietPlanPerformance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/minIncrementForUnique.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
