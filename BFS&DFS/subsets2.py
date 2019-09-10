@@ -58,7 +58,6 @@ class Solution:
                     continue
                 # + nums[j] 下一个操作的索引为j+1
                 getSubset(j+1, temp + [nums[j]])
-
         getSubset(0, [])
         return res
 

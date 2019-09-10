@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ab281d-5ce5-412d-a59e-4e232316ec82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/StringOperation/canMakePaliQueries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/NQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/NQueue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/combinationSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/combinationSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/combinationSum2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/combinationSum2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/combine.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/combine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/countArrangement.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/countArrangement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/findItinerary.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/findItinerary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/permute.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/permute.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/permute2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/permute2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/subsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/subsets2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/subsets2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/canFinish.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/canFinish.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TreeOperation/TreeTraversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/TreeOperation/TreeTraversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canMakePaliQueries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/subsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/subsets2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/subsets2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrasticPlan/numIslands.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/numIslands.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +33,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\learning\codingPractice\BFS&amp;DFS" />
       <recent name="E:\learning\codingPractice\TreeOperation" />
       <recent name="E:\learning\codingPractice\Backtracking" />
       <recent name="E:\learning\codingPractice\StringOperation" />
       <recent name="E:\learning\codingPractice\zothers" />
-      <recent name="E:\learning\codingPractice\MathProblem" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -64,49 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TreeTraversal">
-    <configuration name="LCS" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DrasticPlan" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DrasticPlan/LCS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TreeTraversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TreeOperation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TreeOperation/TreeTraversal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.b3">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,28 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="backpack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DrasticPlan" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DrasticPlan/backpack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="canMakePaliQueries" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="b3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\learning\codingPractice\StringOperation\canMakePaliQueries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/b3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="largeSubset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bilibili1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,11 +103,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DrasticPlan" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DrasticPlan/largeSubset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bilibili1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bilibili2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bilibili2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ksum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS&amp;DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS&amp;DFS/ksum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ladderLength" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS&amp;DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS&amp;DFS/ladderLength.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,19 +194,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.canMakePaliQueries" />
-      <item itemvalue="Python.LCS" />
-      <item itemvalue="Python.largeSubset" />
-      <item itemvalue="Python.backpack" />
-      <item itemvalue="Python.TreeTraversal" />
+      <item itemvalue="Python.ksum" />
+      <item itemvalue="Python.ladderLength" />
+      <item itemvalue="Python.bilibili1" />
+      <item itemvalue="Python.bilibili2" />
+      <item itemvalue="Python.b3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TreeTraversal" />
-        <item itemvalue="Python.backpack" />
-        <item itemvalue="Python.largeSubset" />
-        <item itemvalue="Python.LCS" />
-        <item itemvalue="Python.canMakePaliQueries" />
+        <item itemvalue="Python.b3" />
+        <item itemvalue="Python.bilibili2" />
+        <item itemvalue="Python.bilibili1" />
+        <item itemvalue="Python.ladderLength" />
+        <item itemvalue="Python.ksum" />
       </list>
     </recent_temporary>
   </component>
