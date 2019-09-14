@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d2ab281d-5ce5-412d-a59e-4e232316ec82" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/subsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/subsets2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/subsets2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrasticPlan/numIslands.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/numIslands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathProblem/threeSumClosest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayOperation/threeSumClosest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +31,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\learning\codingPractice\ArrayOperation" />
       <recent name="E:\learning\codingPractice\BFS&amp;DFS" />
       <recent name="E:\learning\codingPractice\TreeOperation" />
       <recent name="E:\learning\codingPractice\Backtracking" />
       <recent name="E:\learning\codingPractice\StringOperation" />
-      <recent name="E:\learning\codingPractice\zothers" />
     </key>
   </component>
   <component name="RunDashboard">
