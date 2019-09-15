@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ab281d-5ce5-412d-a59e-4e232316ec82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ShuaTi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ShuaTi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathProblem/threeSumClosest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayOperation/threeSumClosest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayOperation/SumOfTwoNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayOperation/SumOfTwoNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayOperation/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayOperation/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/permute.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/permute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/permute2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/permute2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,10 +31,13 @@
   </component>
   <component name="ProjectId" id="1QGJFEOC2No6MsSOyuLuP0thqsv" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ArrayOperation" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Learning\codingPractice\ArrayOperation" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\learning\codingPractice\ArrayOperation" />
       <recent name="E:\learning\codingPractice\BFS&amp;DFS" />
@@ -50,7 +58,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.b3">
+  <component name="RunManager" selected="Python.search2">
+    <configuration name="SumOfTwoNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayOperation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayOperation/SumOfTwoNumbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,27 +122,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bilibili1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bilibili1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="bilibili2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ksum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS&amp;DFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayOperation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS&amp;DFS/ksum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayOperation/search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ladderLength" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="search2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS&amp;DFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayOperation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS&amp;DFS/ladderLength.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayOperation/search2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,19 +200,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ksum" />
-      <item itemvalue="Python.ladderLength" />
-      <item itemvalue="Python.bilibili1" />
       <item itemvalue="Python.bilibili2" />
       <item itemvalue="Python.b3" />
+      <item itemvalue="Python.SumOfTwoNumbers" />
+      <item itemvalue="Python.search" />
+      <item itemvalue="Python.search2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.search2" />
+        <item itemvalue="Python.search" />
+        <item itemvalue="Python.SumOfTwoNumbers" />
         <item itemvalue="Python.b3" />
         <item itemvalue="Python.bilibili2" />
-        <item itemvalue="Python.bilibili1" />
-        <item itemvalue="Python.ladderLength" />
-        <item itemvalue="Python.ksum" />
       </list>
     </recent_temporary>
   </component>
@@ -286,11 +294,6 @@
           <url>file://$PROJECT_DIR$/zothers/10.Truths/citrix/anagrams.py</url>
           <line>6</line>
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ArrayOperation/search.py</url>
-          <line>45</line>
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

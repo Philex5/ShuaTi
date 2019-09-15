@@ -83,12 +83,5 @@ class Solution:
     #
     #     return res
 
-
 so = Solution()
 print(so.permute([1]))
-
-
-
-
-
-
