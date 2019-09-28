@@ -26,3 +26,5 @@ class Solution:
         backtrack(nums, [])
         return res
 
+so = Solution()
+print(so.permuteUnique([1, 1, 2]))

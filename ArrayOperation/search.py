@@ -54,10 +54,40 @@ class Solution():
                 right = mid - 1
             else:
                 left = mid + 1
+        return -1.
+
+    def searchOpt(self, nums, target):
+        """
+        不用先找出旋转的点，直接在二分查找的基础上修改
+        l_mid_][_mid_r，根据mid划分为四个区域，l-mid, mid-r可以直接二分，另外两个要不断缩小范围
+        """
+        if len(nums) <= 0:
+            return -1
+        l = 0
+        r = len(nums) - 1
+        while l <= r:
+            mid = l + (r - l) // 2
+            if nums[mid] == target:
+                return mid
+            if nums[mid] >= nums[l]:
+                if nums[l] <= target < nums[mid]:
+                    r = mid - 1
+                else:
+                    l = mid + 1
+            else:
+                if nums[mid] < target <= nums[r]:
+                    l = mid + 1
+                else:
+                    r = mid - 1
         return -1
+
+
+
+
 
 so = Solution()
 print(so.search([4, 5, 6, 7, 0, 1, 2], 1))
+print(so.searchOpt([3,1 ], 1))
 
 
 
