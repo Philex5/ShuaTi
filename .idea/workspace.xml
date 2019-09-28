@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d2ab281d-5ce5-412d-a59e-4e232316ec82" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathProblem/threeSumClosest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayOperation/threeSumClosest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayOperation/fourSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayOperation/fourSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrasticPlan/backpack.py" beforeDir="false" afterPath="$PROJECT_DIR$/DrasticPlan/backpack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack&amp;Queue/findKthLargest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayOperation/findKthLargest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,10 +34,10 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\learning\codingPractice\ArrayOperation" />
+      <recent name="E:\learning\codingPractice\zothers" />
+      <recent name="E:\learning\codingPractice\zothers\10.Truths\ByteDance" />
+      <recent name="E:\learning\codingPractice\zothers\10.Truths" />
       <recent name="E:\learning\codingPractice\BFS&amp;DFS" />
-      <recent name="E:\learning\codingPractice\TreeOperation" />
-      <recent name="E:\learning\codingPractice\Backtracking" />
-      <recent name="E:\learning\codingPractice\StringOperation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -50,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.b3">
+  <component name="RunManager" selected="Python.lyf1">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +74,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="b3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fourSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ShuaTi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayOperation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayOperation/fourSum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lyf1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/b3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lyf1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bilibili1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bilibili1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bilibili2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="v3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bilibili2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ksum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="yc2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShuaTi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,32 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS&amp;DFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS&amp;DFS/ksum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ladderLength" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShuaTi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS&amp;DFS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS&amp;DFS/ladderLength.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yc2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,19 +194,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ksum" />
-      <item itemvalue="Python.ladderLength" />
-      <item itemvalue="Python.bilibili1" />
-      <item itemvalue="Python.bilibili2" />
-      <item itemvalue="Python.b3" />
+      <item itemvalue="Python.v2" />
+      <item itemvalue="Python.v3" />
+      <item itemvalue="Python.fourSum" />
+      <item itemvalue="Python.yc2" />
+      <item itemvalue="Python.lyf1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.b3" />
-        <item itemvalue="Python.bilibili2" />
-        <item itemvalue="Python.bilibili1" />
-        <item itemvalue="Python.ladderLength" />
-        <item itemvalue="Python.ksum" />
+        <item itemvalue="Python.lyf1" />
+        <item itemvalue="Python.yc2" />
+        <item itemvalue="Python.fourSum" />
+        <item itemvalue="Python.v3" />
+        <item itemvalue="Python.v2" />
       </list>
     </recent_temporary>
   </component>
@@ -291,6 +293,11 @@
           <url>file://$PROJECT_DIR$/ArrayOperation/search.py</url>
           <line>45</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/v1.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

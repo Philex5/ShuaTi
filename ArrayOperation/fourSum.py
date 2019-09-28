@@ -36,7 +36,7 @@ class Solution:
 
 
 so = Solution()
-print(so.fourSum([1,-2,-5,-4,-3,3,3,5], -11))
+print(so.fourSum([1, -2, -5, -4, -3, 3, 3, 5], -11))
 
 
 

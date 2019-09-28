@@ -39,5 +39,6 @@ class Solution:
             if dp[i] > 0:
                 return i
 
+
 so = Solution()
 print(so.backPack(10, [3, 6, 5, 2]))
